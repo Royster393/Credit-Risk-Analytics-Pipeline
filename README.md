@@ -8,7 +8,7 @@
 ## 📌 Executive Summary
 This repository features an autonomous **Credit Risk Intelligence System** simulating a Canadian retail banking environment. The pipeline automates the ingestion of 32,000+ records via Python, executing a **500bps interest rate stress test** to calculate borrower resilience. Data is dynamically modeled into a Star Schema and injected into a local SQL Server for executive-level visualization in Power BI.
 
-![Main Dashboard](images/main_dashboard.jpg)
+![Main Dashboard](images/main.png)
 
 ---
 
@@ -39,7 +39,7 @@ The **Credit Risk Assesment.pbix** dashboard provides a "Command Center" view of
 * **Financial KPIs:** DAX-driven measures for **Expected Loss (EL)** and **Capital at Risk**.
 * **Demographic Slicing:** Interactive analysis of risk by age group, loan intent, and home ownership status.
 
-![Detailed Analysis](images/detailed_analysis.jpg)
+![Detailed Analysis](images/details.png)
 
 ---
 
