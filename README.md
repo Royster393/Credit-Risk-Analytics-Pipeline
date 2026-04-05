@@ -63,7 +63,6 @@ The **Credit Risk Assesment.pbix** dashboard provides a "Command Center" view of
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/Royster393/Credit-Risk-Analytics-Pipeline.git](https://github.com/Royster393/Credit-Risk-Analytics-Pipeline.git)
-   ```
 
 2. **Install Dependencies:**
    ```bash
