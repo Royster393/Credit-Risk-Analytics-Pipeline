@@ -72,3 +72,8 @@ The **Credit Risk Assesment.pbix** dashboard provides a "Command Center" view of
    Update the `SERVER_NAME` and `LOCAL_FILE` path in `script/credit_assesment.py`, then run:
    ```bash
    python script/credit_assesment.py
+
+## 👨‍💻 Author
+**Joel Roy**  
+Computer Science & IT | University of Windsor  
+Specializing in Data Engineering & Cybersecurity
