@@ -67,3 +67,8 @@ The **Credit Risk Assesment.pbix** dashboard provides a "Command Center" view of
 2. **Install Dependencies:**
    ```bash
    pip install pandas numpy sqlalchemy pyodbc
+
+3. **Execute Pipeline:**  
+   Update the `SERVER_NAME` and `LOCAL_FILE` path in `script/credit_assesment.py`, then run:
+   ```bash
+   python script/credit_assesment.py
